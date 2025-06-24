@@ -1,2 +1,2 @@
 # Under-water-survilleance-drone
-This is my Diploma Final Year Project.
+Hello One and All! This is my final year diploma project — a ROV Underwater Surveillance Drone built using Arduino and a FlySky CT6B transmitter. It features 4 motors for vertical and horizontal movement and includes a waterproof camera for real-time underwater video monitoring. This low-cost ROV system enables underwater exploration, inspection, and surveillance using RF communication, relay-based motor control, and live visual feedback — making it ideal for marine research and environmental observation.
